@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sevinch
 - 👀 I’m interested in coding
-- 🌱 I have already learnt JavaScropt, Vue
+- 🌱 I have already learnt JavaScript, Vue
 - 📫 How to reach me bakhramovna21s@gmail.com
